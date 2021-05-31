@@ -1,1 +1,28 @@
-# elevator-logic-stm32f4-arduino
+# Elevator logic simulation
+
+- **Arduino**: 4 floors
+  - 4 LEDS, one for each floor
+  - 6 BUTTONS
+    - floor 0: button UP
+    - floor 1: button UP, button DOWN
+    - floor 2: button UP, button DOWN
+    - floor 3: button DOWN
+- **STM32F4**: elevator
+  - 7SEG display: floor display
+  - 6 buttons
+    - floor 0
+    - floor 1
+    - floor 2
+    - floor 3
+    - open doors
+    - close doors
+  - RGB LED
+    - RED: door is closed
+    - GREEN: door is opened
+  - buzzer
+- **sketch**
+  - ![dvigalo realizacija skica](https://raw.githubusercontent.com/gapizaver/elevator-logic-stm32f4-arduino/master/dvigalo%20realizacija%20skica.png)
+- **picture**
+  - ![dvigalo realizacija skica](https://raw.githubusercontent.com/gapizaver/elevator-logic-stm32f4-arduino/master/IMG_20210525_113037.jpg)
+- **video**
+  - coming soon
