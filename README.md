@@ -20,9 +20,10 @@
     - RED: door is closed
     - GREEN: door is opened
   - buzzer
-- **sketch**
+- **communication: **I2C
+- **Sketch**
   - ![dvigalo realizacija skica](https://raw.githubusercontent.com/gapizaver/elevator-logic-stm32f4-arduino/master/dvigalo%20realizacija%20skica.png)
-- **picture**
+- **Picture**
   - ![dvigalo realizacija skica](https://raw.githubusercontent.com/gapizaver/elevator-logic-stm32f4-arduino/master/IMG_20210525_113037.jpg)
-- **video**
-  - coming soon
+- **Video**
+  - https://youtu.be/noO3cHa5ezs
