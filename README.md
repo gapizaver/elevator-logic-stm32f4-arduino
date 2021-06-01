@@ -25,5 +25,5 @@
   - ![dvigalo realizacija skica](https://raw.githubusercontent.com/gapizaver/elevator-logic-stm32f4-arduino/master/dvigalo%20realizacija%20skica.png)
 - **Picture**
   - ![dvigalo realizacija skica](https://raw.githubusercontent.com/gapizaver/elevator-logic-stm32f4-arduino/master/IMG_20210525_113037.jpg)
-- **Video**
+- **Video demonstration**
   - https://youtu.be/noO3cHa5ezs
